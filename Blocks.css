@@ -1,0 +1,64 @@
+body{
+	background-color: violet;
+}
+p{
+	background-color: purple;
+	color: orange;
+	font-size: 50px;
+}
+.p2{
+	display: inline;
+}
+.p1 span{
+	font-style: italic;
+	background-color: fuchsia;
+	border: 5px dashed red;
+	display: block-block;
+}
+#first{
+	width: 400px;
+	height: 500px;
+	background-color: olive;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	font-size: 48px;
+	border: 28px black;
+	border-style: dashed dotted double solid;
+}
+#second{
+	width: 500px;
+	height: 600px;
+	background-color: burlywood;
+	padding: 50px;
+	margin: 100px;
+	border: 20px dashed;
+	background-color: red green yellow blue;
+}
+#third,#forth{
+	width: 700px;
+	height: 200px;
+	background-color: fuchsia;
+	margin: 100px;
+}
+#fifth{
+	width: 700px;
+	height: 600px;
+	background-color: blue;
+	padding: 50px;
+	margin: 100px;
+	border: 20px dashed;
+	background-color: red green yellow blue;
+}
+#sixth{
+	width: 600px;
+	height: 500px;
+	background-color: yellow;
+	padding: 50px;
+}
+#seventh{
+	width: 500px;
+	height: 400px;
+	background-color: green;
+	
+}

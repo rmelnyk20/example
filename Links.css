@@ -1,0 +1,23 @@
+P{
+	background-color: yellow;
+	font-size: 50px;
+	color: blue;
+	font-family: cursive;
+	text-align: center;
+}
+.a2{
+	font-size: 24px;
+	border: 5px solid purple;
+	text-decoration: none;
+	padding: 5px;
+	background-color: lightsalmon;
+}
+.a2:hover{
+	border-color: lightsalmon;
+	background-color: purple;
+	color: lightsalmon;
+	border-radius: 50%;
+	font-weight: bold;
+	padding: 10px;
+	box-shadow: 0 0 10px purple;
+}
